@@ -1,0 +1,6 @@
+<launch>
+
+  <node pkg="robot_drive" type="RobotDrive_node" name="RobotDrive_node" output="screen">
+  </node>
+  
+</launch>
